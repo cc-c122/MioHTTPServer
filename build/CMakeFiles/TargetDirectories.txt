@@ -1,0 +1,3 @@
+/home/cc/MioHTTPServer/build/CMakeFiles/server.dir
+/home/cc/MioHTTPServer/build/CMakeFiles/edit_cache.dir
+/home/cc/MioHTTPServer/build/CMakeFiles/rebuild_cache.dir
